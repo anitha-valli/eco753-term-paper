@@ -12,4 +12,4 @@ The analysis accounts for rural/urban residence and I also hope to look at the e
 The primary limitations are interpreting these trajectories as individual life-cycle patterns as well as differences in survey design between the NSS and PLFS.
 
 
-The repository only contains the cleaning script for NSS55 data and the script with the regressions as a sample for now. I hope to upload the remaining files soon!
+The repository only contains the cleaning script for NSS55 data (sample_code.r) and the script with the regressions (regression.m) as a sample for now. I hope to upload the remaining files soon!
